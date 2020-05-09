@@ -2,7 +2,7 @@
 Welcome to Benj's excellent python quest. We r gonna learn us some python basics and make a fun game!
 
 ![Code](https://github.com/ben-bay/learn-python/blob/master/code.jpeg)
-![Game](https://github.com/ben-bay/learn-python/blob/master/game.jpeg)
+![Game](https://github.com/ben-bay/learn-python/blob/master/game.png)
 
 ## Learning
 
