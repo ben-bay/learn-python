@@ -1,6 +1,9 @@
 # Python-learning quest
 Welcome to Benj's excellent python quest. We r gonna learn us some python basics and make a fun game!
 
+![Code](url)
+![Game](url)
+
 ## Learning
 
 Literaly everyone writes code tutorials online. Here are some good ones:
