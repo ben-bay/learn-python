@@ -20,39 +20,52 @@ When u want to learn some programming thing, the steps are:
 
 U r making an RPG. U need 23 points. Each * is 1 point.
 
-Technical
-~~~~~~~~~
+## Required
+
+### Technical
+
 * Use strings, ints, and floats
 * Use variables
 * Use conditions
 * Use lists
 * Use for/while loops
 * Use functions
-* Use classes
+* Use classes and objects
 
-Game elements
-~~~~~~~~~~~~~
-* Character attributes like hp, strength, speed
+### Game elements
+
+* Character attributes like hp, strength, xp
 * Ability for character to choose between actions
 * 6+ monsters
 * 6+ items
-* 
+* Include randomness
+* Win and loss conditions (not too easy!)
 * Someone named "Blecks"
 
-A la carte
-~~~~~~~~~~
+## A la carte
+
+### Technical
+
 * Use dictionies or tuples
 * Use f-strings
-* Use the internet somehow, like an API
 * Use inheritance at least twice
+* Separate your one file into multiple files by using modules
+* Use exception handling
+* Use the modulus operator (%) meaningfully
+* Read/write to files
+* Use the internet somehow, like an API
+
+### Game elements
 
 * Interesting lore that somehow is connected to the gameplay.
+* A special monster that tells riddles.
 * Procedurally generated game elements (monsters, names, items, dungeons, etc.).
   This can count more than once for each time it's done in a different way.
 * Add spells and magic
 * Use dungeon maps-- some sort of class or data structure that represents levels/location
+* Add more complex player attributes that affect the game in different ways such as wisdom, luck, charisma, etc.
 * Add complexity to monsters / NPCs: individuals differing from their race, memory, likes/dislikes
 * Add background music (probably with a third party library)
 * Add visuals somehow
-
+* Use WASD controls for player
 * Custom goal -- as long as it's approved by Benj
