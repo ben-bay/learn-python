@@ -27,6 +27,7 @@ U r making an RPG. U need 23 points. Each * is 1 point.
 
 ### Technical
 
+* Use python3
 * Use strings, ints, and floats
 * Use variables
 * Use conditions
