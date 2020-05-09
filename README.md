@@ -58,7 +58,7 @@ U r making an RPG. U need 23 points. Each * is 1 point.
 * Use the modulus operator (%) meaningfully
 * Read/write to files
 * Use the internet somehow, like an API
-* Use recursion! DANGER
+* Use recursion! (DANGER)
 
 ### Game elements
 
