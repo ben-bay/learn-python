@@ -50,7 +50,7 @@ U r making an RPG. U need 23 points. Each * is 1 point.
 
 ### Technical
 
-* Use dictionies or tuples
+* Use dictionaries or tuples
 * Use f-strings
 * Use inheritance at least twice
 * Separate your one file into multiple files by using modules
