@@ -1,5 +1,7 @@
-# learn-python
+# Python-learning quest
 Welcome to Benj's excellent python quest. We r gonna learn us some python basics and make a fun game!
+
+## Learning
 
 Literaly everyone writes code tutorials online. Here are some good ones:
 
@@ -18,6 +20,7 @@ When u want to learn some programming thing, the steps are:
 3. Google it
 4. Try it
 
+## Quest
 U r making an RPG. U need 23 points. Each * is 1 point.
 
 ## Required
@@ -54,6 +57,7 @@ U r making an RPG. U need 23 points. Each * is 1 point.
 * Use the modulus operator (%) meaningfully
 * Read/write to files
 * Use the internet somehow, like an API
+* Use recursion! DANGER
 
 ### Game elements
 
@@ -64,8 +68,9 @@ U r making an RPG. U need 23 points. Each * is 1 point.
 * Add spells and magic
 * Use dungeon maps-- some sort of class or data structure that represents levels/location
 * Add more complex player attributes that affect the game in different ways such as wisdom, luck, charisma, etc.
+* Let monsters / NPCs use items just like you.
 * Add complexity to monsters / NPCs: individuals differing from their race, memory, likes/dislikes
-* Add background music (probably with a third party library)
+* Add background music/sound (probably with a third party library). Bonus if it's dynamic, linked to what's happening in the game.
 * Add visuals somehow
 * Use WASD controls for player
 * Custom goal -- as long as it's approved by Benj
