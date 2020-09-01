@@ -62,6 +62,7 @@ U r making an RPG. U need 23 points. Each * is 1 point.
 * Read/write to files
 * Use the internet somehow, like an API
 * Use recursion! (DANGER)
+* Use version control (GitHub!)
 
 ### Game elements
 
