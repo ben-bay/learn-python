@@ -24,7 +24,7 @@ When u want to learn some programming thing, the steps are:
 4. Try it
 
 ## Quest
-U r making an RPG. U need 23 points. Each * is 1 point.
+U r making an RPG. U need 24 points. Each * is 1 point.
 
 ## Required
 
