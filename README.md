@@ -9,7 +9,7 @@ Welcome to Benj's excellent python quest. We r gonna learn us some python basics
 
 ## Learning
 
-Literaly everyone writes code tutorials online. Here are some good ones:
+Literally everyone writes code tutorials online. Here are some good ones:
 
   * https://www.learnpython.org/
   * https://www.coursera.org/learn/python-basics
